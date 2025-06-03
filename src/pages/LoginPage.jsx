@@ -34,7 +34,6 @@ const LoginPage = () => {
                         />
                     </div>
                     <button
-                    type="submit"
                     className="w-full py-3 bg-gray-300 text-white rounded-md font-semibold cursor-pointer"
                     >
                         Login
